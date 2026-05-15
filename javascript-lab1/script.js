@@ -1,0 +1,26 @@
+// задание 1
+alert("Этот код выполнен из внешнего файла!");
+console.log("Сообщение в консоли");
+
+// задание 2
+
+let name = "Tanya";
+let birthYear = 2002;
+let isStudent = true;
+
+console.log("Имя:", name);
+console.log("Год рождения:", birthYear);
+console.log("студент:", isStudent);
+
+let score = prompt("Введите ваш балл:");
+if (score >= 90) {
+  console.log("Отлично!");
+} else if (score >= 70) {
+  console.log("Хорошо");
+} else {
+  console.log("Можно лучше!");
+}
+
+for (let i = 1; i <= 5; i++) {
+  console.log(`Итерация: ${i}`);
+}
