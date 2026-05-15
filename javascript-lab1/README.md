@@ -11,23 +11,24 @@
 В ходе выполнения задания были выполнены следующие действия:
 
 - Установлен Visual Studio Code
-![Консоль](images/img1.png)
+![1](images/img1.png)
 
 - Установлен Node.js
 - Изучена работа DevTools в браузере
 - Выполнен JavaScript-код в консоли браузера
-![Консоль](images/img2.png)
+![2](images/img2.png)
 
 - Создан HTML-файл с JavaScript-кодом
 - Подключён внешний JavaScript-файл
-![Консоль](images/img3.png)
-![Консоль](images/img4.png)
+![3](images/img3.png)
+---
+![4](images/img4.png)
 
 ### Код index.html
-![Консоль](images/img5.png)
+![5](images/img5.png)
 
 ### Код script.js
-![Консоль](images/img6.png)
+![6](images/img6.png)
 
 ## Задание 2. Работа с типами данных
 
@@ -45,7 +46,7 @@ let isStudent = true;
 - функция prompt()
 
 ### Код
-![Консоль](images/img7.png)
+![7](images/img7.png)
 
 ---
 
