@@ -21,6 +21,7 @@
 - Создан HTML-файл с JavaScript-кодом
 - Подключён внешний JavaScript-файл
 ![3](images/img3.png)
+
 ![4](images/img4.png)
 
 ### Код index.html
