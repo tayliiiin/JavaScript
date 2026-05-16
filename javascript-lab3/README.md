@@ -333,13 +333,13 @@ node main.js
 
 # Скриншоты результата работы
 
-![terminal](images/img16)
+![terminal1](images/img16)
 
-![terminal](images/img17)
+![terminal2](images/img17)
 
-![terminal](images/img18)
+![terminal3](images/img18)
 
-![terminal](images/img19)
+![terminal4](images/img19)
 
 ---
 
