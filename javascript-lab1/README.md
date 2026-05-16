@@ -49,6 +49,15 @@ let isStudent = true;
 ![7](images/img7.png)
 
 ---
+### Результаты работы
+
+![8](images/img8.png)
+
+![9](images/img9.png)
+
+![10](images/img10.png)
+
+---
 
 ## Контрольные вопросы
 
