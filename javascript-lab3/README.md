@@ -335,9 +335,15 @@ node main.js
 
 ![terminal1](images/img16)
 
+---
+
 ![terminal2](images/img17)
 
+---
+
 ![terminal3](images/img18)
+
+---
 
 ![terminal4](images/img19)
 
